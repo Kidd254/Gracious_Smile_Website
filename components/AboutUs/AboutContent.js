@@ -15,9 +15,9 @@ const AboutContent = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-area-content">
                 <span>About Us</span>
-                <h3>We are Dynamic Team of Digital Solutions Agency</h3>
+                <h3>We are a dynamic team of cheerful givers</h3>
                 <strong>
-                Welcome to Guramayle Digital Solutions, where innovation converges with expertise to shape the digital landscape. 
+                Welcome to Gracious Smiles Organization, where we enlighten the world by helping the less priviledged. 
                 </strong>
                 <p>
                 We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
@@ -31,10 +31,10 @@ const AboutContent = () => {
                 <div className="col-lg-6 col-6 col--6">
                   <div className="single-fun-facts">
                     <h3>
-                      1,165
+                      12
                       <span className="sign-icon">+</span>
                     </h3>
-                    <p>Project Completed</p>
+                    <p>Events Attended</p>
                   </div>
                 </div>
 
@@ -44,7 +44,7 @@ const AboutContent = () => {
                       2,665
                       <span className="sign-icon">+</span>
                     </h3>
-                    <p>Satisfied Clients</p>
+                    <p>Satisfied People</p>
                   </div>
                 </div>
               </div> */}
