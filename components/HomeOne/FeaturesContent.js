@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "next/link";
+import React from 'react';
+import Link from 'next/link';
 
 const FeaturesContent = () => {
   return (
@@ -9,21 +9,24 @@ const FeaturesContent = () => {
           <div className="row align-items-center">
             <div className="col-lg-5 col-md-12">
               <div className="features-content-area">
-                <span>Our Care Features</span>
-                <h3>Empower Your Business with Our Expertise</h3>
+                <span>Our Core Activities</span>
+                <h3>Sharing is Caring</h3>
                 <p>
-                    Elevate your brand with our integrated digital marketing solutions, innovative UI/UX design,
-                    and expert web development services. We craft tailored digital strategies, ensuring your online
-                    presence is not only visually striking but also effectively reaches and engages your target audience.
-                    Our development team transforms ideas into reality with robust and scalable code solutions, creating
-                    high-performance and secure digital assets. Fortify your digital operations with industry-leading
-                    cybersecurity practices, safeguarding your data against potential threats. Additionally, streamline
-                    your business transactions with our seamless payment integration services. From creative design to
-                    secure functionality, we prioritize excellence in every aspect of your digital experience.
+                  The Gracious Smile Givers Foundation mission is to use the
+                  power of compassion and smiles to improve the lives of those
+                  who are in need. Our goal is to build a compassionate society
+                  where everyone, no matter what their circumstances, can find
+                  love, happiness, and support. A community where generosity,
+                  compassion, and support are at the base of everything we do is
+                  what Gracious Smile Givers Foundation envisions. We want to be
+                  an inspiration of hope, giving people we interact with a smile
+                  , a helping hand, and chances to grow and succeed. Our goal is
+                  to create a stronger, more connected community where everyone
+                  is appreciated, able to succeed, and feels empowered.
                 </p>
                 <div className="features-btn">
                   <Link href="/features" className="features-btn-one">
-                    Explore Services
+                    Explore Core Values
                   </Link>
                 </div>
               </div>
@@ -36,10 +39,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-seo"></i>
                     </div>
-                    <h3>Integrated Digital Marketing Solutions</h3>
+                    <h3>Compassion</h3>
                     <p>
-                    Leverage our digital marketing expertise for tailored strategies—SEO, 
-                    social media, and content—to maximize your online presence, reach, and engagement.
+                    We approach every situation with kindness and understanding, taking into account the
+unique challenges that each individual could be facing.
                     </p>
                   </div>
                 </div>
@@ -49,10 +52,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analytics"></i>
                     </div>
-                    <h3>Innovative UI/UX Design</h3>
+                    <h3>Community</h3>
                     <p>
-                        Enhance your brand with captivating, user-friendly interfaces.
-                        Our creative UI/UX team prioritizes aesthetics, functionality, and seamless navigation for superior user experiences.
+                    We believe that our neighbourhood is strong and that working together may result in
+positive change.
                     </p>
                   </div>
                 </div>
@@ -62,9 +65,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-laptop"></i>
                     </div>
-                    <h3>Web Development</h3>
+                    <h3>Empowerment</h3>
                     <p>
-                    Depend on our expert development team to transform your ideas into reality with robust and scalable code solutions, ensuring high-performance, secure digital assets.
+                    By supplying individuals with knowledge, inspiration, and resources, we seek to
+empower them and provide them the tools they need to build better futures.
                     </p>
                   </div>
                 </div>
@@ -74,10 +78,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analysis-1"></i>
                     </div>
-                    <h3>Secure Digital Operations & Seamless Payments</h3>
-                    <p>
-                    Fortify digital assets with leading cybersecurity practices. 
-                    Ensure secure, user-friendly payments through seamless integration services, meeting industry standards for diverse business needs.
+                    <h3>Sustainability & Transparency</h3>
+                    <p>We are committed to sustainable programmes that enhance the long-term quality of life
+in our neighbourhood. We promote transparency in all areas of our organisation, including finances and
+decision-making, to gain the trust of our supporters.
                     </p>
                   </div>
                 </div>
