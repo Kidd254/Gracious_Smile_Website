@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const AboutContent = () => {
   return (
@@ -14,40 +14,19 @@ const AboutContent = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-area-content">
-                <span>About Us</span>
-                <h3>We are Dynamic Team of Digital Solutions Agency</h3>
+                <h3>We are a dynamic team of cheerful givers</h3>
                 <strong>
-                Welcome to Guramayle Digital Solutions, where innovation converges with expertise to shape the digital landscape. 
+                  Welcome to Gracious Smiles Organization, where we enlighten
+                  the world by helping the less priviledged.
                 </strong>
                 <p>
-                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
-                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
-                 and payment integration wizards, leading the way in comprehensive digital solutions. 
-                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
+                  The Gracious Smile Givers was established by people who firmly
+                  believe in the transformative power of simple deeds of
+                  kindness. Our team is made up of enthusiastic community
+                  members and volunteers that are dedicated in improving the
+                  community we live in.
                 </p>
               </div>
-
-              {/* <div className="row">
-                <div className="col-lg-6 col-6 col--6">
-                  <div className="single-fun-facts">
-                    <h3>
-                      1,165
-                      <span className="sign-icon">+</span>
-                    </h3>
-                    <p>Project Completed</p>
-                  </div>
-                </div>
-
-                <div className="col-lg-6 col-6 col-6">
-                  <div className="single-fun-facts">
-                    <h3>
-                      2,665
-                      <span className="sign-icon">+</span>
-                    </h3>
-                    <p>Satisfied Clients</p>
-                  </div>
-                </div>
-              </div> */}
             </div>
           </div>
         </div>

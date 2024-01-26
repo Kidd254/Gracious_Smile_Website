@@ -20,10 +20,9 @@ const AboutContent = () => {
                 Welcome to Gracious Smiles Organization, where we enlighten the world by helping the less priviledged. 
                 </strong>
                 <p>
-                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
-                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
-                 and payment integration wizards, leading the way in comprehensive digital solutions. 
-                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
+                The Gracious Smile Givers was established by people who firmly believe in the transformative
+power of simple deeds of kindness. Our team is made up of enthusiastic community members and
+volunteers that are dedicated in improving the community we live in.
                 </p>
               </div>
 
