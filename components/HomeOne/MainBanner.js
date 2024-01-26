@@ -21,10 +21,10 @@ const MainBanner = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="main-banner-content">
-                    <h1>Digital Solutions For Your Business</h1>
+                    <h1>Gracious Smiles</h1>
                     <p>
-                     At our consultancy, we specialize in Digital Marketing, Web Development, and Cybersecurity, providing tailored solutions to small businesses.
-                     Partner with us to enhanve your oline presence and secure your digital assetsy.
+                    Welcome to Gracious Smiles Organization, where we enlighten
+                  the world by helping the less priviledged.
                     </p>
 
                     <div className="banner-btn">

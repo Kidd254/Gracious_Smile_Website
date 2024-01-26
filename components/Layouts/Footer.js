@@ -15,10 +15,8 @@ const Footer = () => {
                 </div>
 
                 <p>
-                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
-                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians, 
-                and payment integration wizards, leading the way in comprehensive digital solutions. 
-                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
+                Welcome to Gracious Smiles Organization, where we enlighten
+                  the world by helping the less priviledged.
                 </p>
 
                 <ul className="footer-social">
@@ -76,7 +74,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/projects">
-                      Project
+                      Events
                     </Link>
                   </li>
                   <li>
