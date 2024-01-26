@@ -53,7 +53,7 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
             <Link href="/" className="navbar-brand">
-            <span className="brand-name">Guramayle Digital Solutions</span>
+            <span className="brand-name">Gracious Smiles</span>
             </Link>
 
 
@@ -138,7 +138,7 @@ const Navbar = () => {
                         currentPath == "/projects/" && "active"
                       }`}
                     >
-                      Projects <i className="fa-solid"></i>
+                      Events<i className="fa-solid"></i>
                     </Link>
 
                     {/* <ul className="dropdown-menu">
@@ -373,10 +373,8 @@ const Navbar = () => {
             <div className="title">
               <h2>About Us</h2>
               <p>
-                We believe brand interaction is key to communication. Real
-                innovations and positive customer experience are the heart of
-                successful communication. No fake products and services. The
-                customer is king, their lives and needs are the inspiration.
+              Welcome to Gracious Smiles Organization, where we enlighten
+                  the world by helping the less priviledged.
               </p>
             </div>
           </div>
@@ -433,9 +431,9 @@ const Navbar = () => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="info">+251917253752</span>
+                  <span className="info">+254 790 654 449</span>
                   <span className="or">OR</span>
-                  <span className="info">info@neemo.com</span>
+                  <span className="info">gracioussmilegivers@gmail.com</span>
                 </h2>
 
                 <ul className="social">

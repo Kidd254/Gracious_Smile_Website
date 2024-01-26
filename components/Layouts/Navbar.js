@@ -54,7 +54,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand" style={{ color: 'teal' }}>
                 {/* <img src="/images/logo.png" alt="logo" /> */}
-                <span className="brand-name">Guramayle Digital Solutions</span>
+                <span className="brand-name">Gracious Smiles</span>
               </Link>
 
               {/* Toggle navigation */}
@@ -138,7 +138,7 @@ const Navbar = () => {
                         currentPath == "/projects/" && "active"
                       }`}
                     >
-                      Projects <i className="fa-solid "></i>
+                      Events <i className="fa-solid "></i>
                     </Link>
 
                     {/* <ul className="dropdown-menu">
@@ -373,10 +373,9 @@ const Navbar = () => {
             <div className="title">
               <h2>About Us</h2>
               <p>
-                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
-                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
-                 and payment integration wizards, leading the way in comprehensive digital solutions. 
-                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
+              The Gracious Smile Givers was established by people who firmly believe in the transformative
+power of simple deeds of kindness. Our team is made up of enthusiastic community members and
+volunteers that are dedicated in improving the community we live in..
               </p>
             </div>
           </div>
@@ -433,9 +432,9 @@ const Navbar = () => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="info">+251917253752</span>
+                  <span className="info">+254 790 654 449</span>
                   <span className="or">OR</span>
-                  <span className="info">info@neemo.com</span>
+                  <span className="info">gracioussmilegivers@gmail.com</span>
                 </h2>
 
                 <ul className="social">
