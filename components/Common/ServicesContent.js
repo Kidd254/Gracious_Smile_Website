@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "next/link";
+import React from 'react';
+import Link from 'next/link';
 
 const ServicesContent = () => {
   return (
@@ -19,13 +19,16 @@ const ServicesContent = () => {
                 </div>
                 <h3>
                   <Link href="/single-service/">
-                  Full-stack website development
+                    Emergency Relief Assistance
                   </Link>
                 </h3>
                 <p>
-                Crafted with responsive and user-friendly design, customized UI/UX, and secured with SSL implementation. 
-                 We also provide payment gateway integration and ongoing maintenance and updates.
-              </p>
+                  In times of crisis, our organization swiftly responds with
+                  emergency relief assistance. This includes providing immediate
+                  aid such as food, shelter, and essential supplies to
+                  individuals and communities affected by natural disasters,
+                  conflicts, or other emergencies.
+                </p>
               </div>
             </div>
 
@@ -35,11 +38,15 @@ const ServicesContent = () => {
                   <i className="flaticon-goal"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">E-commerce Solutions</Link>
+                  <Link href="/single-service/">Healthcare Initiatives</Link>
                 </h3>
                 <p>
-                  Elevate your business with e-commerce website development, payment integration, product catalog design, 
-                  user experience optimization, and cybersecurity measures. We also offer SEO and digital marketing services.
+                  Committed to promoting health and well-being, our healthcare
+                  initiatives go beyond clinics. We conduct health camps,
+                  awareness programs, and preventive healthcare campaigns,
+                  aiming to improve overall community health. Access to
+                  healthcare services and education is a fundamental aspect of
+                  our mission.
                 </p>
               </div>
             </div>
@@ -50,11 +57,16 @@ const ServicesContent = () => {
                   <i className="flaticon-contract"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Digital Marketing Strategy</Link>
+                  <Link href="/single-service/">
+                    Community Infrastructure Development
+                  </Link>
                 </h3>
                 <p>
-                  Drive your online presence with market research, SEO optimization, content marketing, social media management, 
-                  email campaigns, pay-per-click advertising, and comprehensive analytics.
+                  Our organization invests in community infrastructure projects
+                  to enhance living conditions. This includes the construction
+                  of schools, community centers, and sanitation facilities,
+                  contributing to improved quality of life for residents in
+                  underserved areas.
                 </p>
               </div>
             </div>
@@ -65,11 +77,16 @@ const ServicesContent = () => {
                   <i className="flaticon-application"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">UI/UX Design and Redesign</Link>
+                  <Link href="/single-service/">
+                    Crisis Counseling and Mental Health Support
+                  </Link>
                 </h3>
                 <p>
-                  Elevate user experiences with UI/UX design, website or app redesign, usability testing, accessibility enhancements, 
-                   user journey mapping, and A/B testing for optimal conversion rates.
+                  Mental health is a crucial aspect of overall well-being. Our
+                  organization offers crisis counseling and mental health
+                  support services, providing a safe space for individuals
+                  facing emotional challenges. This initiative aims to reduce
+                  stigma and promote mental health awareness in the community.
                 </p>
               </div>
             </div>
@@ -80,11 +97,14 @@ const ServicesContent = () => {
                   <i className="flaticon-seo"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Cybersecurity Assessment and Implementation</Link>
+                  <Link href="/single-service/">Legal Aid and Advocacy</Link>
                 </h3>
                 <p>
-                  Strengthen your digital defenses with cybersecurity audits, vulnerability testing, data encryption, employee training, 
-                  continuous monitoring, and compliance with industry regulations.
+                  Upholding justice and human rights, we offer legal aid
+                  services to those who may not have access to legal
+                  representation. Our advocacy initiatives seek to address
+                  systemic issues, promote social justice, and ensure that
+                  marginalized communities have a voice in legal matters.
                 </p>
               </div>
             </div>
@@ -95,11 +115,21 @@ const ServicesContent = () => {
                   <i className="flaticon-data-recovery"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Payment Integration and Security</Link>
+                  <Link href="/single-service/">
+                    Environmental Conservation Programs
+                  </Link>
                 </h3>
                 <p>
-                  Ensure secure transactions with payment gateway integration, PCI DSS compliance, fraud prevention measures, 
-                  secure authentication, authorization, and ongoing support for payment systems.
+                  Committed to the preservation of our planet, our organization
+                  actively engages in environmental conservation initiatives.
+                  These programs include tree planting campaigns, waste
+                  management projects, and awareness campaigns on sustainable
+                  practices. By fostering a sense of environmental
+                  responsibility, we aim to contribute to a healthier and more
+                  sustainable future for current and future generations. Through
+                  partnerships and community involvement, our organization
+                  strives to protect ecosystems, conserve biodiversity, and
+                  mitigate the impact of climate change.
                 </p>
               </div>
             </div>
