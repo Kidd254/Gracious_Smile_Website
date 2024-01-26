@@ -9,12 +9,9 @@ const SingleServiceContent = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-12">
                 <div className="services-details-desc">
-                  <h3>Full-stack Website Development</h3>
+                  <h3>Visit Children Homes</h3>
                   <p>
-                    Unlock the full potential of your online presence with our
-                    full-stack website development services. We prioritize
-                    responsive and user-friendly design, customized UI/UX, and
-                    robust security with SSL implementation.
+                    We contribute money, foodstuffs, clothes, and other neccesary materials need. We visit children homes to assist and offer companion
                   </p>
 
                   <div className="features-text">

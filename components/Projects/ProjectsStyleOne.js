@@ -7,8 +7,8 @@ const ProjectsStyleOne = () => {
       <section className="project-section pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span>Projects</span>
-            <h3>Our Projects For Client</h3>
+            <span>Events</span>
+            <h3>Our Events</h3>
           </div>
 
           <div className="row justify-content-center">
