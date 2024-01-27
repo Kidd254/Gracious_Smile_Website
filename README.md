@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Guramayle </b></h1>
+  <h1><b>Gracious Smiles</b></h1>
 </div>
 
 
@@ -97,10 +97,10 @@ Then open `http://127.0.0.1:3000/` in your browser.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Henok Mekonnen**
-
-- GitHub: [@githubhandle](https://github.com/henask12)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/henokmekonnen1)
+👤 **Lawrence Muema Kioko**
+- GitHub: [@githubhandle](https://github.com/Kidd254)
+- Twitter: [@twitterhandle](https://twitter.com/lawrenc98789206)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lawrence-muema-kioko)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
