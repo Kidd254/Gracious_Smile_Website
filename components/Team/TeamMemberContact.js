@@ -18,7 +18,7 @@ const TeamMemberContact = () => {
                 </div>
 
                 <div className="team-content">
-                  <h3>Henok Mekonnen</h3>
+                  <h3>Mercy</h3>
                   <span>CEO & Founder</span>
 
                   <ul className="team-social">
@@ -194,7 +194,7 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/6.jpg" alt="image" />
+                  <img src="/images/team/6.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
