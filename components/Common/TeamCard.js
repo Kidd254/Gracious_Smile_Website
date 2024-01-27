@@ -18,7 +18,7 @@ const TeamCard = () => {
                 </div>
 
                 <div className="team-content">
-                  <h3>Edward Bold</h3>
+                  <h3>Mercy</h3>
                   <span>CEO & Founder</span>
 
                   <ul className="team-social">
