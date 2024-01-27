@@ -15,11 +15,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/1.jpg" alt="image" />
+                  <img src="/images/project/1.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">Branding</Link>
+                    <Link href="/single-project">A Visit </Link>
                   </h3>
                 </div>
               </div>
@@ -28,11 +28,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/2.jpg" alt="image" />
+                  <img src="/images/project/2.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">Marketing</Link>
+                    <Link href="/single-project">A Visit</Link>
                   </h3>
                 </div>
               </div>
@@ -41,11 +41,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/3.jpg" alt="image" />
+                  <img src="/images/project/3.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">SEO</Link>
+                    <Link href="/single-project">A Visit</Link>
                   </h3>
                 </div>
               </div>
@@ -54,11 +54,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/4.jpg" alt="image" />
+                  <img src="/images/project/4.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">Web Design</Link>
+                    <Link href="/single-project">A Visit</Link>
                   </h3>
                 </div>
               </div>
@@ -67,11 +67,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/5.jpg" alt="image" />
+                  <img src="/images/project/5.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">Web Development</Link>
+                    <Link href="/single-project">A Visit</Link>
                   </h3>
                 </div>
               </div>
@@ -80,11 +80,11 @@ const ProjectsStyleOne = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-project-box">
                 <Link href="/single-project">
-                  <img src="/images/project/6.jpg" alt="image" />
+                  <img src="/images/project/6.JPG" alt="image" />
                 </Link>
                 <div className="project-hover-content">
                   <h3>
-                    <Link href="/single-project">Digital marketing</Link>
+                    <Link href="/single-project">A Visit</Link>
                   </h3>
                 </div>
               </div>
