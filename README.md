@@ -29,7 +29,7 @@
 
 #  CarVertise <a name="about-project"></a>
 
-**"Guramayle"** In crafting this digital masterpiece, we embraced the philosophy of user-centric design and seamless functionality. Embark on a transformative digital journey with our consultancy, specializing in Digital Marketing, Web Development, and Cybersecurity.
+**"Gracious Smiles"** In crafting this digital masterpiece, we embraced the philosophy of user-centric design and seamless functionality. Embark on a transformative digital journey with our consultancy, specializing in Digital Marketing, Web Development, and Cybersecurity.
 
 
 ## 🛠 Built With <a name="built-with"></a>
