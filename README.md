@@ -52,7 +52,7 @@ The project is developed utilizing the following technologies:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]([https://carvertise.onrender.com])
+- [Live Demo Link]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,7 +74,7 @@ In order to run this project you need to have:
 To clone this repository to your desired folder, run the following command: <br>
 
 ```
-[https://github.com/henask12/Budget-App.git](https://github.com/henask12/carvertise-client.git)
+[clone](https://github.com/Kidd254/Gracious_Smile_Website.git)
 ```
 
 Navigate to the cloned repository and run the following command to install the necessary gems:
@@ -119,7 +119,7 @@ Upcoming improvements:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/henask12/Budget-App/issues).
+Feel free to check the [issues page]().
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
