@@ -14,11 +14,11 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/1.jpg" alt="image" />
+                  <img src="/images/team/1.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Mercy</h3>
+                  <h3>Mercy Mumo</h3>
                   <span>CEO & Founder</span>
 
                   <ul className="team-social">
@@ -50,12 +50,12 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/2.jpg" alt="image" />
+                  <img src="/images/team/2.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Calvin Klein</h3>
-                  <span>Marketing Support</span>
+                  <h3>Patience Mumo</h3>
+                  <span> Social Media Mananger</span>
 
                   <ul className="team-social">
                     <li>
@@ -86,7 +86,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/3.jpg" alt="image" />
+                  <img src="/images/team/3.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">

@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const TeamMemberContact = () => {
   return (
@@ -14,11 +14,11 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/1.jpg" alt="image" />
+                  <img src="/images/team/1.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Mercy</h3>
+                  <h3>Mercy Mumo</h3>
                   <span>CEO & Founder</span>
 
                   <ul className="team-social">
@@ -50,12 +50,12 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/2.jpg" alt="image" />
+                  <img src="/images/team/2.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Natinael Wondwossen</h3>
-                  <span>Digital Marketing</span>
+                  <h3>Patience Mumo</h3>
+                  <span>Social Media Manager</span>
 
                   <ul className="team-social">
                     <li>
@@ -86,11 +86,11 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/3.jpg" alt="image" />
+                  <img src="/images/team/3.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Iyasu Assefa</h3>
+                  <h3>Alistair Cook</h3>
                   <span>Project Manager</span>
 
                   <ul className="team-social">
@@ -122,11 +122,11 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/4.jpg" alt="image" />
+                  <img src="/images/team/4.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Eyob Tesfaye</h3>
+                  <h3>Travis Greene</h3>
                   <span>Marketing Manager</span>
 
                   <ul className="team-social">
@@ -158,11 +158,11 @@ const TeamMemberContact = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/5.jpg" alt="image" />
+                  <img src="/images/team/5.JPG" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Henok Mekonne</h3>
+                  <h3>Sherine Patrick</h3>
                   <span>Supervisor</span>
 
                   <ul className="team-social">
