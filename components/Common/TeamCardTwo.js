@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const TeamCardTwo = () => {
   return (
@@ -14,7 +14,7 @@ const TeamCardTwo = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item">
                 <div className="image">
-                  <img src="/images/team/4.jpg" alt="image" />
+                  <img src="/images/team/4.JPG" alt="image" />
 
                   <ul className="social">
                     <li>
@@ -40,8 +40,8 @@ const TeamCardTwo = () => {
                   </ul>
                 </div>
                 <div className="content bg-ffffff">
-                  <h3>James Adult</h3>
-                  <span>Cardiologist</span>
+                  <h3>James Moose</h3>
+                  <span>Events Planner </span>
                 </div>
               </div>
             </div>
@@ -49,7 +49,7 @@ const TeamCardTwo = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item">
                 <div className="image">
-                  <img src="/images/team/5.jpg" alt="image" />
+                  <img src="/images/team/5.JPG" alt="image" />
 
                   <ul className="social">
                     <li>
@@ -76,7 +76,7 @@ const TeamCardTwo = () => {
                 </div>
                 <div className="content bg-ffffff">
                   <h3>James Alison</h3>
-                  <span>Medicine</span>
+                  <span> Assistant</span>
                 </div>
               </div>
             </div>
@@ -84,7 +84,7 @@ const TeamCardTwo = () => {
             <div className="col-lg-4 col-md-6">
               <div className="team-item">
                 <div className="image">
-                  <img src="/images/team/6.jpg" alt="image" />
+                  <img src="/images/team/6.JPG" alt="image" />
 
                   <ul className="social">
                     <li>
@@ -110,8 +110,8 @@ const TeamCardTwo = () => {
                   </ul>
                 </div>
                 <div className="content bg-ffffff">
-                  <h3>Jelin Alis</h3>
-                  <span>Neurologiest</span>
+                  <h3>Emma Green</h3>
+                  <span>Marketing</span>
                 </div>
               </div>
             </div>

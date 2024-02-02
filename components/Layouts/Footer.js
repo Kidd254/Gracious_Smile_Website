@@ -99,33 +99,33 @@ const Footer = () => {
             <div className="col-lg-2 col-md-6 col-sm-6">
               <div className="footer-item-area">
                 <div className="footer-heading">
-                  <h3>Featured Service</h3>
+                  <h3>Featured Activities</h3>
                 </div>
 
                 <ul className="footer-quick-links">
                   <li>
                     <Link href="/single-service">
-                      SEO Marketing
+                      Children Homes
                     </Link>
                   </li>
                   <li>
                     <Link href="/single-service">
-                      SEO Services
+                    Social/Life Education Programs
                     </Link>
                   </li>
                   <li>
                     <Link href="/single-service">
-                      Services
+                    Boys & Girls Empowerment
                     </Link>
                   </li>
                   <li>
                     <Link href="/single-service">
-                      Pay-Per-Click
+                    Community Health Clinics
                     </Link>
                   </li>
                   <li>
                     <Link href="/single-service">
-                      Social Media
+                    Women's Empowerment Programs
                     </Link>
                   </li>
                 </ul>
@@ -141,19 +141,19 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>(251) 917-253752</span>
+                  <span>(254) 790-654449</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@neemo.com</span>
+                  <span>gracioussmiles@gmail.com</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-placeholder-filled-point"></i>
                   <h3>Address</h3>
-                  <span>Bole, Addis Ababa, Ethiopia</span>
+                  <span>Machakos, Nairobi</span>
                 </div>
               </div>
             </div>
@@ -186,9 +186,9 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <p>
-                © {currentYear} Guramayle Digital Solutions. All Rights Reserved by{" "}
+                © {currentYear} Gracious Smiles Givers. All Rights Reserved by{" "}
                 <a href="#" target="_blank">
-                Guramayle Digital Solutions
+                Gracious Smiles Givers
                 </a>
               </p>
             </div>

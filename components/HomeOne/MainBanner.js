@@ -23,8 +23,11 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Gracious Smiles</h1>
                     <p>
-                    Welcome to Gracious Smiles Organization, where we enlighten
-                  the world by helping the less priviledged.
+                    The Gracious Smile Givers was established by people who firmly
+                  believe in the transformative power of simple deeds of
+                  kindness. Our team is made up of enthusiastic community
+                  members and volunteers that are dedicated in improving the
+                  community we live in.
                     </p>
 
                     <div className="banner-btn">

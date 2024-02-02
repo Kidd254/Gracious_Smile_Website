@@ -36,27 +36,27 @@ class TabsContent extends Component {
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
                                 <i className="flaticon-analysis-2"></i>
-                                <span>Real-Time-Analytics</span>
+                                <span>Children Homes</span>
                             </li>
                             <li onClick={(e) => this.openTabSection(e, 'tab2')} className="bg-eff7e9">
                                 <i className="flaticon-hand"></i>
-                                <span>Pay-Per-Click</span>
+                                <span>PWDs (Persons with Disabilities)</span>
                             </li>
                             <li onClick={(e) => this.openTabSection(e, 'tab3')} className="bg-fff8f0">
                                 <i className="flaticon-digital-marketing"></i>
-                                <span>Online Marketing</span>
+                                <span>Social/Life Education Programs</span>
                             </li>
                             <li onClick={(e) => this.openTabSection(e, 'tab4')} className="bg-ecfaf7">
                                 <i className="flaticon-email"></i>
-                                <span>Email Marketing</span>
+                                <span>Boys & Girls Empowerment</span>
                             </li>
                             <li onClick={(e) => this.openTabSection(e, 'tab5')} className="bg-f2f0fb">
                                 <i className="flaticon-network"></i>
-                                <span>Social Marketing</span>
+                                <span>Community Health Clinics</span>
                             </li>
                             <li onClick={(e) => this.openTabSection(e, 'tab6')} className="bg-c5ebf9">
                                 <i className="flaticon-analysis-1"></i>
-                                <span>Digital Marketing</span>
+                                <span>Women's Empowerment Programs</span>
                             </li>
                         </ul>
 
@@ -72,8 +72,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Real-Time Analytics</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                            <h2>Children Homes</h2>
+                                            <p>Our organization actively supports and visits various children's homes to bring joy, companionship, and essential resources to children in need. We believe in creating a nurturing environment that encourages their growth and development.</p>
                                         </div>
 
                                         <div className="row">
@@ -115,8 +115,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Pay-Per Click</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                            <h2>PWDs (Persons with Disabilities)</h2>
+                                            <p>Our commitment to inclusivity drives us to engage with Persons with Disabilities (PWDs) to ensure their voices are heard and their unique needs are addressed. We collaborate to provide support, accessibility, and empower them to lead fulfilling lives.</p>
                                         </div>
 
                                         <div className="row">
@@ -160,8 +160,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Online Marketting</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <h2>Social/Life Education Programs</h2>
+                                            <p>Empowering individuals through social and life education programs is at the core of our mission. We conduct workshops and sessions that focus on essential life skills, mental well-being, and personal development, contributing to a stronger, more resilient community.</p>
                                         </div>
 
                                         <div className="row">
@@ -203,8 +203,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Email Marketting</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <h2>Boys & Girls Empowerment</h2>
+                                            <p>We are dedicated to empowering young minds through targeted programs for boys and girls. These initiatives aim to instill confidence, impart valuable skills, and create a positive impact on their lives, paving the way for a brighter future.</p>
                                         </div>
 
                                         <div className="row">
@@ -246,8 +246,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Social Marketting</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <h2>Community Health Clinics</h2>
+                                            <p>Ensuring the well-being of the community, we operate health clinics that provide accessible healthcare services. From preventive care to health education, our clinics are committed to promoting a healthier and happier community.</p>
                                         </div>
 
                                         <div className="row">
@@ -289,8 +289,8 @@ class TabsContent extends Component {
 
                                     <div className="col-lg-7">
                                         <div className="content">
-                                            <h2>Digital Marketting</h2>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                            <h2>Women's Empowerment Programs</h2>
+                                            <p>Empowering women is key to creating thriving communities. Our organization conducts women's empowerment programs that focus on education, skill development, and creating opportunities for women to lead, succeed, and contribute to societal progress.</p>
                                         </div>
 
                                         <div className="row">

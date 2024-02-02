@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "next/link";
+import React from 'react';
+import Link from 'next/link';
 
 const ProjectsStyleTwo = () => {
   return (
@@ -7,8 +7,8 @@ const ProjectsStyleTwo = () => {
       <section className="portfolio-section">
         <div className="container">
           <div className="section-title">
-            <span>Portfolio</span>
-            <h3>Our Project For Client</h3>
+            <span>Activities</span>
+            <h3>Our Past Events</h3>
           </div>
 
           <div className="row justify-content-center">
@@ -16,12 +16,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/1.png" alt="image" />
+                    <img src="/images/portfolio/1.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project/">Branding</Link>
+                    <Link href="/single-project/">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -29,12 +29,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/2.png" alt="image" />
+                    <img src="/images/portfolio/2.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">Marketing</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -44,12 +44,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/3.png" alt="image" />
+                    <img src="/images/portfolio/3.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">SEO</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -57,12 +57,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/4.png" alt="image" />
+                    <img src="/images/portfolio/4.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">Web Design</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -70,12 +70,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/5.png" alt="image" />
+                    <img src="/images/portfolio/5.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">Web Development</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -85,12 +85,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/6.png" alt="image" />
+                    <img src="/images/portfolio/6.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">Digital Marketing</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>
@@ -98,12 +98,12 @@ const ProjectsStyleTwo = () => {
               <div className="single-portfolio-box">
                 <div className="portfolio-image">
                   <Link href="/single-project">
-                    <img src="/images/portfolio/7.png" alt="image" />
+                    <img src="/images/portfolio/7.JPG" alt="image" />
                   </Link>
                 </div>
                 <div className="portfolio-hover-content">
                   <h3>
-                    <Link href="/single-project">IT Marketing</Link>
+                    <Link href="/single-project">Events</Link>
                   </h3>
                 </div>
               </div>

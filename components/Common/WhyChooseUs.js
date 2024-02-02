@@ -9,48 +9,41 @@ const WhyChooseUs = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="choose-content-area">
-                <span>Why Choose Us</span>
-                <h3>Our Outstanding Experience</h3>
+                <span>Why Support Our Cause</span>
+                <h3>Proven Impact, Proven Dedication</h3>
                 <p>
-                Elevate your journey with a team that boasts a rich history of success and expertise. With a proven track record
-                in delivering exceptional results, we bring unparalleled experience to every project. Explore a partnership
-                that goes beyond expectations, defining new standards in the digital realm.{" "}
+                Join us in our mission with a team that has a rich history of making a difference. With a proven track record of impactful initiatives, we bring unparalleled dedication to every project. Explore a partnership that goes beyond expectations, setting new standards in the realm of charitable work.{" "}
                 </p>
 
                 <div className="choose-text">
                   <i className="flaticon-check-mark"></i>
-                  <h4>Aviation-Rooted Expertise</h4>
+                  <h4>Philanthropic Roots</h4>
                   <p>
-                  Leveraging Aviation Expertise: Rooted in the aviation industry, our team offers valuable insights tailored to your sector's nuances. 
-                  Benefit from our proven track record collaborating with Ethiopian Airlines, demonstrating our ability to deliver results and navigate industry complexities.
+                  Grounded in Philanthropy: Rooted in the principles of giving, our team offers valuable insights tailored to the nuances of charitable endeavors. Benefit from our proven track record of successful collaborations with renowned charitable organizations, demonstrating our ability to deliver meaningful results and navigate the complexities of the nonprofit sector.
                   </p>
                 </div>
 
                 <div className="choose-text">
                   <i className="flaticon-check-mark"></i>
-                  <h4>Comprehensive Digital Prowess</h4>
+                  <h4>Comprehensive Social Impact</h4>
                   <p>
-                  Diverse Expertise, Tailored Solutions: Rooted in aviation, we offer nuanced insights and a proven track record with Ethiopian Airlines. 
-                  Our versatile team, spanning digital realms, ensures a one-stop-shop for your needs. 
-                  From creative campaigns to user-centric design, we craft innovative strategies for your distinct presence.
+                  Diverse Expertise, Tailored Solutions: Rooted in philanthropy, we offer nuanced insights and a proven track record with various charitable causes. Our versatile team, spanning different aspects of social impact, ensures a one-stop-shop for your charitable needs. From innovative campaigns to community-centric programs, we craft thoughtful strategies for meaningful change.
                   </p>
                 </div>
 
                 <div className="choose-text">
                   <i className="flaticon-check-mark"></i>
-                  <h4>Client-Centric Partnership</h4>
+                  <h4>Community-Centric Partnership</h4>
                   <p>
-                    Strategic Collaboration for Impact: Partnering closely, we merge aviation insights and a proven track record with a versatile team, offering a unified solution hub. 
-                    From innovative campaigns to user-centric design, we tailor strategies for your brand's distinct success.
+                  Strategic Collaboration for Lasting Change: Partnering closely, we merge philanthropic insights and a proven track record with a versatile team, offering a unified solution hub. From impactful campaigns to community-centric programs, we tailor strategies for the distinct success of your charitable initiatives.
                   </p>
                 </div>
 
                 <div className="choose-text">
                   <i className="flaticon-check-mark"></i>
-                  <h4>Dedicated Team Member</h4>
+                  <h4>Dedicated Advocates</h4>
                   <p>
-                    Discover the excellence of our team, where each member is dedicated to delivering top-notch solutions with passion and expertise.
-                    Our commitment to your success drives our collaborative efforts, making us the ideal choice for your digital needs.
+                  Discover the Excellence of our Advocates, where each member is dedicated to delivering impactful solutions with passion and expertise. Our commitment to making a difference drives our collaborative efforts, making us the ideal choice for supporting your charitable cause.
                   </p>
                 </div>
 
