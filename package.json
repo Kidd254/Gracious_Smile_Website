@@ -3,11 +3,27 @@
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
   "main": "next.config.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "next": "^12.3.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "next build",
+    "export": "next export"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.7",
+    "fslightbox-react": "^1.7.6",
+    "nodemailer": "^6.9.9",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "react-accessible-accordion": "^5.0.0",
+    "react-id-swiper": "^4.0.0",
+    "sweetalert2": "^11.10.4",
+    "sweetalert2-react-content": "^5.0.7",
+    "swiper": "^11.0.5"
+  }
 }

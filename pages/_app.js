@@ -2,6 +2,7 @@ import "../styles/bootstrap.min.css";
 import "../styles/fontawesome.min.css";
 import "../styles/flaticon.css";
 import "animate.css";
+import 'animate.css/animate.css';
 import "react-accessible-accordion/dist/fancy-example.css";
 import "swiper/css";
 import "swiper/css/bundle";
